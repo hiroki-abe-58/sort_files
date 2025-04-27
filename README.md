@@ -45,5 +45,5 @@ macOSでは初めて実行する際、セキュリティ警告が表示される
 ## トラブルシューティング
 
 - **ファイルが移動されない**: パスが正しいか、ファイルの拡張子が想定通りか確認
-- **「Permission denied」エラー**: `chmod +x sort_photos_videos.command` コマンドで実行権限を付与
+- **「Permission denied」エラー**: `chmod +x sort_files.command` コマンドで実行権限を付与
 - **存在しないパス**: 入力したディレクトリパスが実際に存在することを確認
