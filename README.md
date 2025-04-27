@@ -14,7 +14,7 @@
 
 ## 使い方
 
-1. `sort_photos_videos.command` ファイルをダブルクリック
+1. `sort_files.command` ファイルをダブルクリック
 2. 整理したいディレクトリのパスを入力（例: `/Users/username/Pictures/VacationPhotos`）
 3. 自動的にファイルが適切なサブフォルダに分類されます
 
